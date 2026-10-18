@@ -1,8 +1,8 @@
 {
-  "version": "1.1.0",
-  "build_number": 2,
-  "download_url": "https://github.com/Awesomesome/Awesomesome.github.io/releases/download/v1.1.0/ApneTv-1.1.0-release.apk",
-  "changelog": "• Play/pause button responds instantly, controls stay visible\n• Swipe left edge for brightness, right edge for volume\n• App icon is now the ApneTv logo\n• Faster release build, easier installs (no scary warnings)",
+  "version": "1.1.1",
+  "build_number": 3,
+  "download_url": "/ApneTv.apk",
+  "changelog": "• Fixed player play/pause touch responsiveness and controls overlay\n• Restored Picture-in-Picture media controls (-10s, Play/Pause, +10s)\n• Instant in-app update delivery via Netlify CDN",
   "mandatory": false,
   "min_app_version": "1.0.0"
 }
